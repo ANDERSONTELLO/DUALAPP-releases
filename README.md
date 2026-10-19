@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/ANDERSONTELLO/DUALAPP-releases@main/assets/icon.png" width="140" alt="Alya Dual App">
+
 # ✿ Alya Dual App
 
 **Usa varias cuentas de WhatsApp y de tus apps favoritas en un solo teléfono.**
@@ -12,9 +14,6 @@ Clona, abre y organiza tus apps en espacios separados, sin root y totalmente gra
 [![Estrellas](https://img.shields.io/github/stars/ANDERSONTELLO/DUALAPP-releases?style=for-the-badge&label=estrellas&color=ffc94d)](https://github.com/ANDERSONTELLO/DUALAPP-releases/stargazers)
 
 ### [⤓ Descargar la última versión](https://github.com/ANDERSONTELLO/DUALAPP-releases/releases/latest)
-
-<a href="https://github.com/ANDERSONTELLO"><img src="https://github.com/ANDERSONTELLO.png" width="46" alt="Ander"></a><br>
-<sub>✎ Desarrollado por <a href="https://github.com/ANDERSONTELLO"><b>Ander</b></a> · desarrollador y dueño principal</sub>
 
 </div>
 
