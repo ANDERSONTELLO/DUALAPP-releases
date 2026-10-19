@@ -77,6 +77,6 @@ Novedades, avisos y ayuda en nuestro **[canal de WhatsApp](https://whatsapp.com/
 
 **Powered by Ander** · © 2026
 
-<sub>Basado en <a href="https://github.com/ALEX5402/NewBlackbox">NewBlackbox</a> (Apache-2.0). WhatsApp es una marca de Meta; esta app no está afiliada a Meta.</sub>
+<sub>Hecho con ♡ para nuestra comunidad. WhatsApp es una marca de Meta; esta app no está afiliada a Meta.</sub>
 
 </div>
