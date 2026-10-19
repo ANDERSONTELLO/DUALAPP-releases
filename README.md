@@ -23,12 +23,12 @@ Clona, abre y organiza tus apps en espacios separados, sin root y totalmente gra
 
 | | |
 |---|---|
-| ✦ **Varias cuentas** | Hasta **10 clones por app**: WhatsApp, WhatsApp Business y más. |
-| ✦ **Notificaciones** | Instala los servicios de Google en cada clon con un toque. |
-| ✦ **Organiza** | Renombra tus clones y crea accesos directos en tu pantalla de inicio. |
-| ✦ **Modo claro y oscuro** | Cambia el tema cuando quieras desde la pantalla principal. |
-| ✦ **Siempre al día** | La app te avisa cuando hay una versión nueva y se actualiza sola. |
-| ✦ **Ahorra batería** | Solo corre el clon que tienes abierto. |
+| 🍧 **Varias cuentas** | Hasta **10 clones por app**: WhatsApp, WhatsApp Business y más. |
+| 🍧 **Notificaciones** | Instala los servicios de Google en cada clon con un toque. |
+| 🍧 **Organiza** | Renombra tus clones y crea accesos directos en tu pantalla de inicio. |
+| 🍧 **Modo claro y oscuro** | Cambia el tema cuando quieras desde la pantalla principal. |
+| 🍧 **Siempre al día** | La app te avisa cuando hay una versión nueva y se actualiza sola. |
+| 🍧 **Ahorra batería** | Solo corre el clon que tienes abierto. |
 
 ## ✎ Cómo instalar
 
@@ -37,7 +37,7 @@ Clona, abre y organiza tus apps en espacios separados, sin root y totalmente gra
 3. Abre **Alya Dual App**, toca **Clonar app** y elige la que quieras duplicar.
 4. Instala los **servicios de Google** en el clon para recibir notificaciones.
 
-> ✦ Activa el permiso **«Acceso a todos los archivos»** para que tus clones puedan enviar y recibir fotos, audios y documentos.
+> 🍧 Activa el permiso **«Acceso a todos los archivos»** para que tus clones puedan enviar y recibir fotos, audios y documentos.
 
 ## ⟳ Actualizaciones
 
@@ -48,7 +48,7 @@ No necesitas volver a descargar nada: cuando sale una versión nueva, la app te 
 Alya Dual App es **gratis**. Si te resulta útil, puedes apoyar con lo que quieras desde la app:
 **Acerca de → Apoyar el proyecto** (PayPal o tarjeta). Cada aporte ayuda a seguir creciendo y trayendo más actualizaciones.
 
-## ✦ ¿Te gusta Alya Dual App?
+## 🍧 ¿Te gusta Alya Dual App?
 
 Regálanos una **estrella** en este repositorio: toca el botón **Star** arriba a la derecha.
 Es gratis, toma un segundo y nos ayuda muchísimo a que más personas conozcan la app. ❁
