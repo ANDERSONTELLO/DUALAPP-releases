@@ -55,6 +55,20 @@ Es gratis, toma un segundo y nos ayuda muchísimo a que más personas conozcan l
 
 Novedades, avisos y ayuda en nuestro **[canal de WhatsApp](https://whatsapp.com/channel/0029Vb6YzQ7LNSaAfVSEaJ0t)**.
 
+## 🍰 Desarrollador
+
+<div align="center">
+
+<a href="https://github.com/ANDERSONTELLO"><img src="https://github.com/ANDERSONTELLO.png" width="110" style="border-radius:50%" alt="Ander"></a>
+
+### 🌸 Ander
+**Desarrollador y dueño principal de Alya Dual App**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ANDERSONTELLO-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANDERSONTELLO)
+[![Canal](https://img.shields.io/badge/Canal-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6YzQ7LNSaAfVSEaJ0t)
+
+</div>
+
 ---
 
 <div align="center">
