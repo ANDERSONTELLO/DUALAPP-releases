@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/ANDERSONTELLO/DUALAPP-releases@main/assets/icon.png" width="140" alt="Alya Dual App">
+<img src="https://cdn.jsdelivr.net/gh/ANDERSONTELLO/DUALAPP-releases@d56eb46/assets/icon.png" width="190" alt="Alya Dual App">
 
 # ✿ Alya Dual App
 
