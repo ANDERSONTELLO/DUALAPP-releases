@@ -13,6 +13,9 @@ Clona, abre y organiza tus apps en espacios separados, sin root y totalmente gra
 
 ### [⤓ Descargar la última versión](https://github.com/ANDERSONTELLO/DUALAPP-releases/releases/latest)
 
+<a href="https://github.com/ANDERSONTELLO"><img src="https://github.com/ANDERSONTELLO.png" width="46" alt="Ander"></a><br>
+<sub>✎ Desarrollado por <a href="https://github.com/ANDERSONTELLO"><b>Ander</b></a> · desarrollador y dueño principal</sub>
+
 </div>
 
 ---
